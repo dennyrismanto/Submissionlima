@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submissionlima</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Change Language Settings</string>
+
+    <string name="menu_movie">Film</string>
+    <string name="menu_tvmovie">TV Film</string>
+    <string name="menu_moviefav">Film Favorit</string>
+    <string name="menu_tvmoviefav">TV Film Favorit</string>
+    <string name="menu_search">Mencari</string>
+    <string name="menu_notif">Notification</string>
+    <string name="dialy_reminder">Dialy Reminder</string>
+
+    <string name="title_movie">Film</string>
+    <string name="title_tvmovie">TV Film</string>
+    <string name="detail">Rincian</string>
+    <string name="favorite">Favorit</string>
+    <string name="strip">-------------------------</string>
+    <string name="year">Tahun</string>
+    <string name="overview">Peninjauan Luas</string>
+
+
+    <string name="appwidget_text">MOVIE CATALOGUE BANNER</string>
+    <string name="add_widget">Masukan widget</string>
+    <string name="empty_text">Tidak ada data</string>
+    <string name="search_hint">Mencari . . .</string>
+
+
+
+    <string name="not_dialyreminder"> Klik tombol ini kamu akan mendapatkan pemberitahuan setiap hari</string>
+    <string name="not_releasereminder">Klik tombol ini kamu akan mendapatkan pemberitahuan film</string>
+    <string name="release_today_msg">Hallo</string>
+    <string name="release_movie_message">Hallo</string>
+</resources>
